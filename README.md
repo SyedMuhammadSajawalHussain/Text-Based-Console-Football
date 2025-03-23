@@ -1,6 +1,4 @@
-Here’s the complete `README.md` in code format. You can copy and paste this directly into your `README.md` file in your GitHub repository:
-
-```markdown
+markdown
 # Text-Based-Console-Football
 
 ![License](https://img.shields.io/badge/License-GNU-blue.svg)
@@ -110,13 +108,3 @@ If you have any questions or suggestions, feel free to reach out:
 ---
 
 Enjoy the game! ⚽
-```
-
-### How to Use:
-1. Copy the entire code block above.
-2. Open your GitHub repository.
-3. Create a new file named `README.md`.
-4. Paste the copied content into the `README.md` file.
-5. Save and commit the changes.
-
-This will create a professional and detailed `README.md` for your project. Let me know if you need further assistance! 🚀
